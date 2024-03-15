@@ -1,5 +1,5 @@
 # ABCD-Substance-Initiation
-This page contains analyses from the article "Predictors of Substance Use Initiation Among Adolescents". Data used in the present study were pulled from the Adolescent Brain Cognitive Development (ABCD) Study (5.1 data release).
+This page contains analyses from the article "Predictors of Substance Use Initiation by Early Adolescence". Data used in the present study were pulled from the Adolescent Brain Cognitive Development (ABCD) Study (5.1 data release).
 
 
 ## Repository Structure
